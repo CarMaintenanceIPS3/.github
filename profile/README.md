@@ -13,7 +13,7 @@ Welcome to the Car Maintenance IPS3 GitHub organization. This organization house
 
 ## Projects
 
-- **[FaunaNetCoreAPI](https://github.com/CarMaintenanceIPS3/FaunaNetCoreAPI.git)**: This repository contains our .NET Core API, which provides the backend functionality for our application.
+- **[fauna_db_api](https://github.com/CarMaintenanceIPS3/fauna_db_api.git)**: This repository contains our .NET Core API, which provides the backend functionality for our application.
   
 - **[NextJS](https://github.com/CarMaintenanceIPS3/NextJS.git)**: This repository contains our Next.js frontend, which provides the user interface for our application.
 
@@ -21,7 +21,7 @@ Welcome to the Car Maintenance IPS3 GitHub organization. This organization house
 
 ## Getting Started
 
-To get started with our application, clone the [CarMaintenanceDockerSetup](https://github.com/CarMaintenanceIPS3/CarMaintenanceDockerSetup.git) repository, as well as the [FaunaNetCoreAPI](https://github.com/CarMaintenanceIPS3/FaunaNetCoreAPI.git) and [NextJS](https://github.com/CarMaintenanceIPS3/NextJS.git) repositories, into the same parent directory. Then, follow the instructions in the [CarMaintenanceDockerSetup README](https://github.com/CarMaintenanceIPS3/CarMaintenanceDockerSetup/blob/main/README.md) to build and run the application.
+To get started with our application, clone the [CarMaintenanceDockerSetup](https://github.com/CarMaintenanceIPS3/CarMaintenanceDockerSetup.git) repository, as well as the [fauna_db_api](https://github.com/CarMaintenanceIPS3/fauna_db_api.git) and [NextJS](https://github.com/CarMaintenanceIPS3/NextJS.git) repositories, into the same parent directory. Then, follow the instructions in the [CarMaintenanceDockerSetup README](https://github.com/CarMaintenanceIPS3/CarMaintenanceDockerSetup/blob/main/README.md) to build and run the application.
 
 ## Project Roadmap
 
